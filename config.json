@@ -1,0 +1,12 @@
+{
+    "token": "MTEyMTc0ODkyNzI4NTMwMTMxOA.GWjc83.rcrV-9gsY9fwTh57GRtbE30Gy28oCeEhKHExhE",
+    "prefix": "?",
+    "mongooseConnectionString": "mongodb+srv://elite:elite@fortrigo.4crfszk.mongodb.net/?retryWrites=true&w=majority",
+"ticketChannel": "1116742594530123836",
+
+  "ticketRoles": ["1116742483599163402"],
+
+  "ticketCategory": "1122439875250102292",
+
+  "guildId": "1131969142480711761"
+}
